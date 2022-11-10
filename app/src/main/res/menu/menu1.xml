@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuFragmento1"
+        android:icon="@drawable/ic_baseline_alarm_add_24"
+        android:title="Fragmento1" />
+    <item
+        android:id="@+id/menuFragmento2"
+        android:icon="@drawable/ic_baseline_airline_seat_recline_extra_24"
+        android:title="Fragmento2" />
+    <item
+        android:id="@+id/menuFragmento3"
+        android:icon="@drawable/ic_baseline_cast_24"
+        android:title="Fragmento3" />
+</menu>
